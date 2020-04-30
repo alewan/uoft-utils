@@ -1,0 +1,14 @@
+# Lines can be commented out with a '#' symbol
+# Example input below
+TMP100H1  TEMP PLACEHOLDER A                       0.50  90  A+     A
+TMP101H1  TEMP PLACEHOLDER B                       0.50  80  A-     B-
+TMP200H1  C TEMP PLACEHOLDER                       0.50  79  B+     B
+TMP201H1  PLACEHOLDER D                            0.50  76  B      B
+TMP202H1  TEMP PLACEHOLDER                         0.50  85  A      C+
+TMP300H1  TEMP PLACEHOLDER                         0.50  60  C-     C
+TMP400H1  TEMP PLACEHOLDER                         0.50  80  A-     A
+TMP401H1  TEMP PLACEHOLDER                         0.50  80  A-     A-
+TMP411H1  TEMP PLACEHOLDER                         0.50  80  A-     C-
+TMP421H1  TEMP PLACEHOLDER                         0.50  80  A-     B-
+TMP568H1  TEMP PLACEHOLDER                         0.50  93  A+     B+
+#TMP000H1  TEMP PLACEHOLDER                         0.50  80  A-     ?
