@@ -11,4 +11,7 @@ TMP401H1  TEMP PLACEHOLDER                         0.50  80  A-     A-
 TMP411H1  TEMP PLACEHOLDER                         0.50  80  A-     C-
 TMP421H1  TEMP PLACEHOLDER                         0.50  80  A-     B-
 TMP568H1  TEMP PLACEHOLDER                         0.50  93  A+     B+
+ECE496Y1  DESIGN PROJECT                           1.00      IPR
 #TMP000H1  TEMP PLACEHOLDER                         0.50  80  A-     ?
+TMP401H1  TEMP PLACEHOLDER                         0.50    IPR ?
+ECE496Y1  DESIGN PROJECT                           1.00   96   A+ ?
